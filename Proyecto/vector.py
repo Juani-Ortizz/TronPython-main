@@ -109,6 +109,6 @@ class vector(collections.Sequence):
         self.x = x * cosine - y * sine
         self.y = y * cosine + x * sine
         print(self.x)
-        print(self.y)
+        print(self.y) #Print coordenada
         
         
